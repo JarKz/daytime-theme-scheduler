@@ -9,3 +9,7 @@ The theme scheduler which depends on location and changes specific appication th
 - [ ] Waybar;
 - [ ] Terminal - Alacritty;
 - [ ] Neovim.
+
+## License
+
+[MIT](/LICENSE)
