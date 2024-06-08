@@ -7,6 +7,7 @@ The theme scheduler which depends on location and changes specific appication th
 - [ ] GTK appications;
 - [ ] QT applications;
 - [ ] Waybar;
+- [ ] Dunst;
 - [ ] Terminal - Alacritty;
 - [ ] Neovim.
 
